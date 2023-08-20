@@ -3,5 +3,7 @@ title: "Blog"
 permalink: "/blog/"
 layout: page
 ---
-blog
+
+## Stroke Detection using ML
+
 
