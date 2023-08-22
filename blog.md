@@ -3,10 +3,21 @@ title: "Blog"
 layout: page
 ---
 
-## [Entry 1: Dancing in the Rain](https://docs.google.com/document/d/1w9thvOZ3JDt03qgePhqDnn9LZyuh1t0SfHgz7qH4Fns/edit?usp=sharing)
- Genre: Poetry
- Recognition: Silver Key (via. Scholastic Art and Writing Awards)
+## [Entry 1: Dancing in the Rain](https://docs.google.com/document/d/1dAy39OlZP6Z1NvrfISF3iAFGJyhkW745IGB4Ju_s3Yg/edit?usp=sharing)
+ **Genre:** Poetry
+ **Recognition:** Silver Key (via. Scholastic Art and Writing Awards)
+ **Description:** This poem represented the small joys of youth and young innocence. It was meant to represent 
+ the different aspects of nature and how they can alter the way we look at things. Even the most simple ones, 
+ like rain, as portrayed through this literal journey of imagination and curiosity - a vital phase of life, 
+ youth, childhood, bloom.
  
+## [Entry 2: When I was three...](https://docs.google.com/document/d/1kB9hIo8JaUf8Cg1E7ci835OozsDzhEKlfLzFhvpCE7M/edit?usp=sharing)
+**Genre:** Poetry
+**Description:** This poem was a manifested diary entry of a young child in the midst of a war. This was written in tribute to the brave warriors and survivors of the Ukranian war and shows the progression of maturity and innocence. 
 
+## [Entry 3: Black Dog](https://docs.google.com/document/d/117zrrXN71R3nkVXNyQ4HtNN7GGXhV2vlcgDSdfolaA8/edit?usp=sharing)
+**Genre:** Short Story
+**Recognition:** Honorable Mention (via. Scholastic Art and Writing Awards)
+**Description:** This piece was a fictionalized representation of what depression is and what it can do to one's subconsiouss. The protagonist of this Short Story suffers from depression and sees the world in a defile tone. The antagonist, Thana, a spirit built from the protagonist's imagination controls what The protagonist thinks and does. Delve deep into the claustrobic effects of depression and deadly inside voices.
 
 
