@@ -23,14 +23,14 @@ youth, childhood, bloom.
 > 
  > **Description:** This piece was a fictionalized representation of what depression is and what it can do to one's subconsiouss. The protagonist of this Short Story suffers from depression and sees the world in a defile tone. The antagonist, Thana, a spirit built from the protagonist's imagination controls what The protagonist thinks and does. Delve deep into the claustrobic effects of depression and deadly inside voices.
 
-## [Entry 4: panic attack] (https://docs.google.com/document/d/1V5C1PTFh6VKq6mJWm2m6v6rQHNNy-DU6EeYnFrPxAZk/edit?usp=sharing)
+## [Entry 4: panic attack](https://docs.google.com/document/d/1V5C1PTFh6VKq6mJWm2m6v6rQHNNy-DU6EeYnFrPxAZk/edit?usp=sharing)
 > **Genre:** Poetry
 >
 > **Recognition:** Honorable Mention(via, Scholastic Art and Writing Awards)
 >
 > **Description:** This piece was written in the metaphor of one's head while their body is in panic. The setting of this metaphor is an open, empty road in which each aspect of this wooded trail is a manifestation of the thoughts in one's mind.
 
-## [Entry 5: Stay Calm] (https://docs.google.com/document/d/14NqTbZLlb7YS1qizuRYDtZFx_EhJLHyTaD74uaGHzt0/edit?usp=sharing)
+## [Entry 5: Stay Calm](https://docs.google.com/document/d/14NqTbZLlb7YS1qizuRYDtZFx_EhJLHyTaD74uaGHzt0/edit?usp=sharing) 
 > **Genre:** Poetry
 >
 > **Description:** This piece was written in the perspective of a student during a school shooting. The student is hiding in a stall while listening and watching everything around her in fear. They look to a certain paper inside the bathroom stall for comfort and instuction, hoping that if she listens to it, she will survive. Engage in this experience with them as you read through this piece.
