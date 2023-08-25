@@ -8,4 +8,6 @@ layout: page
 
 With the integration of software and hardware, I was able to create an affordable, portable wearable which will detect a stroke before it happens. This solution was targeted for those living in poverty, and living in rural, underfunded areas or cities where healthcare is undeveloped. 
 
+## Robotic Thermometer using Raspberry Pi
 
+## Attendence Counter using a Motion Detector and Raspberry Pi
