@@ -3,7 +3,7 @@ title: "Blog"
 layout: page
 ---
 
- ## [Entry 1: Dancing in the Rain](https://docs.google.com/document/d/1dAy39OlZP6Z1NvrfISF3iAFGJyhkW745IGB4Ju_s3Yg/edit?usp=sharing) 
+## [Entry 1: Dancing in the Rain](https://docs.google.com/document/d/1dAy39OlZP6Z1NvrfISF3iAFGJyhkW745IGB4Ju_s3Yg/edit?usp=sharing) 
  > **Genre:** Poetry
 > 
 > **Recognition:** Silver Key (via. Scholastic Art and Writing Awards)
@@ -11,7 +11,7 @@ layout: page
 > **Description:** This poem represented the small joys of youth and young innocence. It was meant to represent the different aspects of nature and how they can alter the way we look at things. Even the most simple ones, like rain, as portrayed through this literal journey of imagination and curiosity - a vital phase of life, 
 youth, childhood, bloom.
  
- ## [Entry 2: When I was three...](https://docs.google.com/document/d/1kB9hIo8JaUf8Cg1E7ci835OozsDzhEKlfLzFhvpCE7M/edit?usp=sharing)
+## [Entry 2: When I was three...](https://docs.google.com/document/d/1kB9hIo8JaUf8Cg1E7ci835OozsDzhEKlfLzFhvpCE7M/edit?usp=sharing)
 > **Genre:** Poetry
 > 
 > **Description:** This poem was a manifested diary entry of a young child in the midst of a war. This was written in tribute to the brave warriors and survivors of the Ukranian war and shows the progression of maturity and innocence. 
