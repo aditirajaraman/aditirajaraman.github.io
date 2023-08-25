@@ -26,7 +26,7 @@ youth, childhood, bloom.
 ## [Entry 4: panic attack](https://docs.google.com/document/d/1V5C1PTFh6VKq6mJWm2m6v6rQHNNy-DU6EeYnFrPxAZk/edit?usp=sharing)
 > **Genre:** Poetry
 >
-> **Recognition:** Honorable Mention(via, Scholastic Art and Writing Awards)
+> **Recognition:** Honorable Mention (via. Scholastic Art and Writing Awards)
 >
 > **Description:** This piece was written in the metaphor of one's head while their body is in panic. The setting of this metaphor is an open, empty road in which each aspect of this wooded trail is a manifestation of the thoughts in one's mind.
 
