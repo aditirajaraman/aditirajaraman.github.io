@@ -8,6 +8,7 @@ layout: page
 
 With the integration of software and hardware, I was able to create an affordable, portable wearable which will detect a stroke before it happens. This solution was targeted for those living in poverty, and living in rural, underfunded areas or cities where healthcare is undeveloped. 
 
-## Robotic Thermometer using Raspberry Pi
+## Robotic Water Thermometer using Raspberry Pi
+I built a Water Thermometer using a Raspberry Pi Kit and a DS18B20 Temperature Sensor Module. I used the programming language, Python, to recieve outputs of temperature in fahrenheit and celsius.
 
 ## Attendence Counter using a Motion Detector and Raspberry Pi
